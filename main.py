@@ -3,7 +3,7 @@ seconds = int(seconds)
 
 # ... complete the code below
 minutes, seconds = divmod(seconds, 60)
-hours, minutes= divmod(minutes, 60)
+hours, minutes = divmod(minutes, 60)
 
 
 # Follow the formatting given
